@@ -1,4 +1,14 @@
+# Assignment one Meme
+
+## Purpose of Meme
+The motivation behind this meme is how I am currently approaching an assignment for my 220 Statistics course. The purpose of the meme is to show how I am currently feeling about my assignment.
+
+## Originality
+I used inspiration from existing memes but adapted text, images and colour to my situation. The code for the meme is an adaption of an existing code for a meme however, there is original code used. An example of this can be seen in line 22 where I have assigned a name to an objects; this allowed me to reuse the code.
+
 ![](my_meme.png)
+
+## Code for meme
 
 ```r
 
